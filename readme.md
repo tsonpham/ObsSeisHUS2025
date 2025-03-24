@@ -1,5 +1,7 @@
 # Introduction to Observational Seismology Workshop
 
+WARNING: This website is under active constructions. Its content might be changed without notice!
+
 Facilitator:
 - Dr. Phạm Thành Sơn (ANU)
 
@@ -13,10 +15,11 @@ Venue: VNU Hanoi University of Science, 334 Nguyễn Trãi, Thanh Xuân, Hà N�
 
 Time: April 21-25, 2025
 
-## Overview
-This workshop  in a practical introduction to Observational Seismology. 
+Registration form *(deadline April 10)*: https://forms.gle/A7u4UtuP463DfQ1TA
 
-### Learning outcomes
+## What we learn in this workshop
+This workshop is a quick introduction to resources and tools for Observational Seismology. The course content covers the following topics:
+
 * Introduction to digital seismic data, including (1) principles of seismometry, (2) seismic data as digital signals, (3) global seismic databases, (4) basic data processing tools. 
 * Introduction to geographical mapping skills + visualize scientific data, including (1) Python package to draw a geophysical map of a region, (2) plotting scientific data on a map.
 * Introduction to inverse problem theory and classical inverse problems in seismology: (1) earthquake location and (2) seismic moment tensor inversion. 
@@ -31,39 +34,35 @@ This workshop  in a practical introduction to Observational Seismology.
 - Basemap tutorial
 - Machine learning crash course by Google
 
-## Content
-
-<!-- [![open in github](https://www.tensorflow.org/images/GitHub-Mark-32px.png)](mygithub) -->
-
-
-https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb
+## In-class activities
 
 *Day 1: Introduction, geographical Mapping*
-* [Notes](Day1/notes.md)
-* [PDF](link) [PPTX]() Lecture slides
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day1/D1_Lab.ipynb) In-class excercise: Seismicity in Vietnam
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day1/D1_Prac.ipynb) Self-practice excercise: Seismicity in Antarctica
+<!-- * [Notes](Day1/notes.md) -->
+* Lecture slides [PDF](link) [PPTX]()
+* In-class excercise: Seismicity in Vietnam 
+* Self-practice excercise: Seismicity in Antarctica
 
 *Day 2: Seismometry, assess to seismic databases*
-* [Overview](Day2/notes.md)
-<!-- * [Lecture]() -->
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Lab.ipynb) In-class excercise: Seismometer, seismogram, databases
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Prac.ipynb) Self-practice excercise: Triangulation of the Mw5.0 2024/07/28 Kon Tum
+<!-- * [Overview](Day2/notes.md) -->
+* Lecture slides #[PDF]() [PPTX]()
+* In-class excercise: Ray travel times and paths [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Lab.ipynb)
+* Self-practice excercise: Triangulation of the Mw5.0 2024/07/28 Kon Tum [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Prac.ipynb)
 
 *Day 3: Geophysical inference*
-* [Overview](Day3/notes.md)
-<!-- * [Lecture]() -->
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day3/D3_Lab.ipynb) In-class excercise: Earthquake location as an inverse problem
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day3/D3_Prac.ipynb) Self-practice excercise: Seismic moment tensor inversion
+<!-- * [Notes](Day3/notes.md) -->
+* Lecture slides [PDF](link) [PPTX]()
+* In-class excercise: Linear regression
+* Self-practice excercise: Seismic source relocation
+* Advanced excercise: Seismic moment tensor inversion with MTUQ (by Julien Thurin) [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb)
 
-*Day 4: Body-wave seismic interferometry*
-* [Overview](Day4/notes.md)
-<!-- * [Lecture]() -->
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day4/D4_Lab.ipynb) In-class excercise: Imaging the Antarctic ice sheet with P-wave autocorrelation 
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day5/D5_Prac.ipynb) Self-practice excercise: Illuminating the Earth's interior with correlation wavefield
+Day 4: Shallow Earth imaging with P-wave coda autocorrelation
+<!-- * [Notes](Day4/notes.md) -->
+* Lecture slides [PDF](link) [PPTX]()
+* In-class excercise: Imaging the Antarctic ice sheet with P-wave autocorrelation 
+* Self-practice excercise: Illuminating the Earth's interior with correlation wavefield
 
 *Day 5: Machine learning in Seismology*
-* [Overview](Day5/notes.md)
-<!-- * [Lecture]() -->
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day5/D5_Lab.ipynb) In-class excercise: Convolutional neural network for PKIKP onset phase picker 
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day5/D5_Prac.ipynb) Self-practice excercise: Micro icequakes in Anarctica
+<!-- * [Notes](Day5/notes.md) -->
+* Lecture slides [PDF](link) [PPTX]()
+* In-class excercise: Convolutional neural network for PKIKP onset phase picker 
+* Self-practice excercise: Application of deep learning to pick micro icequakes in Anarctica
