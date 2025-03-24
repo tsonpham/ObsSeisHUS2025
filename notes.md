@@ -1,0 +1,2 @@
+Short Courses:
+- Basic of Map Projection [link](https://www.esri.com/training/Engine/defaultui/player/modern.html?configuration=&preventRightClick=False&cc=en-US&cache=22.16.365.0&playerConfUrl=n&registration=ApiRegistrationId%7C5763042b851d31e02a43ed61-18053-u5883665_AusNatUni%21InstanceId%7C0&package=ApiCourseId%7C5763042b851d31e02a43ed61-18053%21VersionId%7C6&tracking=True&forceReview=False) ANU Log in required https://ausnatuni.maps.arcgis.com/home/index.html
