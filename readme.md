@@ -26,13 +26,19 @@ This workshop is a quick introduction to resources and tools for Observational S
 * Introduction to cross-correlation techniques (i.e., relatively modern seismology technique): theory and example of autocorrelation for shallow Earth imaging.
 * A brief introduction to machine learning in seismology: automatic earthquake detection. 
 
-### About lecturer
+### About the faciliator
 [Dr. Phạm](https://www.tsonpham.net/) is an observational seismologist, who uses seismic waves to understand the Earth’s interior structures and seismic energy sources using mathematical tools, such as signal processing, numerical modeling, and geophysical inference. He is particularly interested in structures and processes a few kilometers beneath the surface, such as polar ice sheets, down to the Earth’s deepest shell, including its cores. To date, one of his visible contributions is to help understand better the architecture of the seismic wavefield several hours after large earthquakes and use it to decipher several long-lasting puzzles regarding the Earth’s inner core. In current and near-future research, he aims to expand my seismological toolbox to advance research on the topics, focusing on understanding the structures and dynamics of the polar ice sheets in Antarctica and Greenland in the changing climate. 
 
-## Pre-class reading list
-- What is Google Colab? [link](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
-- Basemap tutorial
-- Machine learning crash course by Google
+## Recommended pre-class reading list
+Here I compile a list of some reading materials about some useful tools in observational seismology:
+- What's inside the Earth: Interactive poster [link](https://www.earthscope.org/inside-the-earth-poster/)
+- Coding environment: Jupyter Notebook [link to tutorial](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
+- Free cloud server: Google Colab [link to tutorial](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+- Basic mapping tool: Basemap [link to tutorial](https://matplotlib.org/basemap/stable/users/geography.html)
+- Theoretical travel time and ray paths: Obspy Taup [link to tutorial](https://docs.obspy.org/packages/obspy.taup.html)
+- Access to seismic data servers: Obspy FDSN Client [link to tutorial](https://docs.obspy.org/packages/obspy.clients.fdsn.html#module-obspy.clients.fdsn)
+- Efficient Bayesian sampler: emcee [link to tutorial](https://emcee.readthedocs.io/en/stable/tutorials/line/)
+- Google machine learning crash course [link to tutorial](https://developers.google.com/machine-learning/crash-course/linear-regression)
 
 ## In-class activities
 
@@ -44,7 +50,7 @@ This workshop is a quick introduction to resources and tools for Observational S
 
 *Day 2: Seismometry, assess to seismic databases*
 <!-- * [Overview](Day2/notes.md) -->
-* Lecture slides #[PDF]() [PPTX]()
+* Lecture slides [PDF]() [PPTX]()
 * In-class excercise: Ray travel times and paths [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Lab.ipynb)
 * Self-practice excercise: Triangulation of the Mw5.0 2024/07/28 Kon Tum [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Prac.ipynb)
 
@@ -53,7 +59,7 @@ This workshop is a quick introduction to resources and tools for Observational S
 * Lecture slides [PDF](link) [PPTX]()
 * In-class excercise: Linear regression
 * Self-practice excercise: Seismic source relocation
-* Advanced excercise: Seismic moment tensor inversion with MTUQ (by Julien Thurin) [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb)
+* Advanced excercise: Seismic moment tensor inversion (by Julien Thurin) [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb)
 
 Day 4: Shallow Earth imaging with P-wave coda autocorrelation
 <!-- * [Notes](Day4/notes.md) -->
