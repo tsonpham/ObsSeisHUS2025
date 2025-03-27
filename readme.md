@@ -42,26 +42,26 @@ Here I compile a list of some reading materials about some useful tools in obser
 
 ## In-class activities
 
-*Day 1: Introduction, geographical Mapping*
+*Day 1: Introduction, geographical mapping*
 <!-- * [Notes](Day1/notes.md) -->
 * Lecture slides [PDF](link) [PPTX]()
 * In-class excercise: Seismicity in Vietnam 
 * Self-practice excercise: Seismicity in Antarctica
 
-*Day 2: Seismometry, assess to seismic databases*
+*Day 2: Ray theory, seismometry, seismic databases*
 <!-- * [Overview](Day2/notes.md) -->
 * Lecture slides [PDF]() [PPTX]()
 * In-class excercise: Ray travel times and paths [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Lab.ipynb)
 * Self-practice excercise: Triangulation of the Mw5.0 2024/07/28 Kon Tum [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Prac.ipynb)
 
-*Day 3: Geophysical inference*
+*Day 3: Geophysical inverse problem*
 <!-- * [Notes](Day3/notes.md) -->
 * Lecture slides [PDF](link) [PPTX]()
 * In-class excercise: Linear regression
 * Self-practice excercise: Seismic source relocation
 * Advanced excercise: Seismic moment tensor inversion (by Julien Thurin) [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb)
 
-Day 4: Shallow Earth imaging with P-wave coda autocorrelation
+*Day 4: Shallow Earth imaging with P-wave coda autocorrelation*
 <!-- * [Notes](Day4/notes.md) -->
 * Lecture slides [PDF](link) [PPTX]()
 * In-class excercise: Imaging the Antarctic ice sheet with P-wave autocorrelation 
