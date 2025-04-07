@@ -3,3 +3,10 @@ bedmap2_readme.txt
 stations/
 waveforms/
 .DS_Store
+Day4/2017.01.22.h5
+Day4/coda_cc.py
+Day4/coda_params.json
+.gitignore
+Day4/ISC.611831635.xml
+Day4/GSN.20170122043024.staxml
+Day4/__pycache__/core.cpython-311.pyc
