@@ -39,7 +39,7 @@ Here I compile a list of some reading materials about some useful tools in obser
 - Access to seismic data servers: Obspy FDSN Client [link to tutorial](https://docs.obspy.org/packages/obspy.clients.fdsn.html#module-obspy.clients.fdsn)
 - Efficient Bayesian sampler: emcee [link to tutorial](https://emcee.readthedocs.io/en/stable/tutorials/line/)
 - Google machine learning crash course [link to tutorial](https://developers.google.com/machine-learning/crash-course/linear-regression)
-- 
+- Machine Learning Cơ Bản by Vũ Hữu Tiệp [link to ebook](https://github.com/tiepvupsu/ebookMLCB)
 - Seisbench: A toolbox for machine learning in seismology [link](https://seisbench.readthedocs.io/en/stable/)
 
 ## In-class activities
@@ -68,10 +68,10 @@ Here I compile a list of some reading materials about some useful tools in obser
 <!-- * [Notes](Day4/notes.md) -->
 * Lecture slides [PDF](link) [PPTX]()
 * In-class excercise: Teleseismic *P*-wave coda autocorrelation [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day4/D4_Lab.ipynb)
-* Self-practice excercise: Illuminating the Earth's interior with correlation wavefield [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day4/D4_Prac.ipynb)
+* Self-practice excercise: Data processing for global correlation wavefield [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day4/D4_Prac.ipynb)
 
 *Module 5: Machine learning in Seismology*
 <!-- * [Notes](Day5/notes.md) -->
 * Lecture slides [PDF](link) [PPTX]()
 * In-class excercise: Convolutional neural network for PKIKP onset phase picker [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day5/D5_Lab.ipynb)
-* Self-practice excercise: Introduction to [seisbench](https://seisbench.readthedocs.io/en/stable/index.html) Model API [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/seisbench/seisbench/blob/main/examples/01b_model_api.ipynb)
+* Self-practice excercise: Introduction to [seisbench](https://seisbench.readthedocs.io/en/stable/index.html): A toolbox for machine learning in seismology [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/seisbench/seisbench/blob/main/examples/01b_model_api.ipynb)

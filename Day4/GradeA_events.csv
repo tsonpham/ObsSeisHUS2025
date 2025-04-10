@@ -1,0 +1,13 @@
+isc_eventid,date,latitude,longitude,depth,magintude,magnitude_type,region
+14686988,2010-05-09,3.69,96.04,41.0,7.27,MS,Northern Sumatera
+600191591,2010-12-21,26.88,143.78,20.0,7.5,MS,Bonin Islands region
+600800706,2012-03-20,16.47,-98.37,19.0,7.63,MS,Near coast of Guerrero
+601675877,2012-09-05,10.02,-85.39,21.0,7.73,MS,Costa Rica
+601768557,2012-09-30,1.91,-76.37,155.0,6.84,mb,Colombia
+607727143,2014-04-01,-19.96,-71.02,11.0,6.25,mb,Off coast of northern Chile
+610573069,2014-10-14,12.59,-88.07,64.0,6.58,mb,Off coast of central America
+612180979,2015-10-26,36.5,70.53,204.0,7.15,mb,Hindu Kush region
+608079035,2015-12-04,-47.68,85.31,26.0,6.82,MS,Southeast Indian Ridge
+615035032,2016-11-13,-42.67,172.92,16.0,8.03,MS,South Island
+609939179,2016-12-25,-43.42,-73.92,34.0,7.71,MS,Southern Chile
+611831635,2017-01-22,-6.23,155.07,157.0,7.15,mb,Bougainville-Solomon Islands region
