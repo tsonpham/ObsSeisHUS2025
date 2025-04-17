@@ -15,6 +15,7 @@ Day4/*.staxml
 Day4/*.xml
 Day4/XCORR/*
 Day4/XCORR_PUB/*
+Day4/PAutoResults.gsheet
 
 Day5/Test_data
 Day5/Train_data
