@@ -47,31 +47,31 @@ Here I compile a list of some reading materials about some useful tools in obser
 *Module 1: Introduction, geographical mapping*
 <!-- * [Notes](Day1/notes.md) -->
 * Lecture slides [PDF](https://drive.google.com/file/d/1KUkcooDYMBD843-AA1lpRnQ8i88LBAO_/view?usp=sharing) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Module1.pptx?d=w397b024a68eb4e7f817f38c052061bf5&csf=1&web=1&e=Io1eim)
-* In-class exercise: Plotting Maps: Seismograph and Seismicity in Vietnam [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day1/D1_Lab.ipynb)
-* Self-practice exercise: Exploring seismic stations in Antarctica [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day1/D1_Prac.ipynb)
+* In-class exercise: Plotting Maps: Seismograph and Seismicity in Vietnam [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day1/D1_Lab.ipynb)
+* Self-practice exercise: Exploring seismic stations in Antarctica [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day1/D1_Prac.ipynb)
 
 *Module 2: Ray theory, seismometry, seismic databases*
 <!-- * [Overview](Day2/notes.md) -->
 * Lecture slides [PDF]() [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day2.pptx?d=waab4f620f10d4b76b3aaf1c9a4fb211e&csf=1&web=1&e=bU2Cwt)
 * In-class exercise: Ray theoretical travel times and paths
- [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Lab.ipynb)
-* Self-practice exercise: Triangulation of M5.2 Kon Tum 28/07/2024 earthquake [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day2/D2_Prac.ipynb)
+ [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day2/D2_Lab.ipynb)
+* Self-practice exercise: Triangulation of M5.2 Kon Tum 28/07/2024 earthquake [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day2/D2_Prac.ipynb)
 
 *Module 3: Geophysical inverse problem*
 <!-- * [Notes](Day3/notes.md) -->
 * Lecture slides [PDF](link) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day3.pptx?d=wfcc3fd576e6242cdaa4c337f1609aaee&csf=1&web=1&e=aJOsT6)
-* In-class exercise: Linear regression [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day3/D3_Lab.ipynb)
-* Self-practice exercise: Earthquake location as an inverse problem [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day3/D3_Prac.ipynb)
+* In-class exercise: Linear regression [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day3/D3_Lab.ipynb)
+* Self-practice exercise: Earthquake location as an inverse problem [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day3/D3_Prac.ipynb)
 * Advanced exercise: Seismic moment tensor inversion (by Julien Thurin) [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb)
 
 *Module 4: Seismic interferometry and study of the Earth’s structures*
 <!-- * [Notes](Day4/notes.md) -->
 * Lecture slides [PDF](link) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day4.pptx?d=we66cec96811349c2879f10aa3adde4ca&csf=1&web=1&e=OTkMBd)
-* In-class exercise: Teleseismic *P*-wave coda autocorrelation [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day4/D4_Lab.ipynb)
-* Self-practice exercise: Single-event global correlogram [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day4/D4_Prac.ipynb)
+* In-class exercise: Teleseismic *P*-wave coda autocorrelation [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day4/D4_Lab.ipynb)
+* Self-practice exercise: Single-event global correlogram [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day4/D4_Prac.ipynb)
 
 *Module 5: Machine learning in Seismology*
 <!-- * [Notes](Day5/notes.md) -->
 * Lecture slides [PDF](link) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day4%20copy.pptx?d=wf037f29c5de94f27abe19302bd0c1f62&csf=1&web=1&e=QYOHfW)
-* In-class exercise: Convolutional neural network for PKIKP onset phase picker [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeis-VNU/blob/master/Day5/D5_Lab.ipynb)
+* In-class exercise: Convolutional neural network for PKIKP onset phase picker [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day5/D5_Lab.ipynb)
 * Self-practice exercise: Introduction to [seisbench](https://seisbench.readthedocs.io/en/stable/index.html): A toolbox for machine learning in seismology [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/seisbench/seisbench/blob/main/examples/01b_model_api.ipynb)
