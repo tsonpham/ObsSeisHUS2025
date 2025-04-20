@@ -1,6 +1,6 @@
 # Introduction to Observational Seismology Workshop
 
-WARNING: This website is under active constructions. Its content might be changed without notice!
+<!-- WARNING: This website is under active constructions. Its content might be changed without notice! -->
 
 Facilitator:
 - Dr. Phạm Thành Sơn (ANU)
@@ -41,6 +41,8 @@ Here I compile a list of some reading materials about some useful tools in obser
 - Google machine learning crash course [link to tutorial](https://developers.google.com/machine-learning/crash-course/linear-regression)
 - Machine Learning Cơ Bản by Vũ Hữu Tiệp [link to ebook](https://github.com/tiepvupsu/ebookMLCB)
 - Seisbench: A toolbox for machine learning in seismology [link](https://seisbench.readthedocs.io/en/stable/)
+
+More up-to-date reading list can be found in this [Google Docs](https://docs.google.com/document/d/1o0qxpMSplIhqRjPVi1Lvl_tMI04KH6avsbPa5C-PZC4/edit?usp=drive_link).
 
 ## In-class activities
 
