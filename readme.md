@@ -54,7 +54,7 @@ More up-to-date reading list can be found in this [Google Docs](https://docs.goo
 
 *Module 2: Ray theory, seismometry, seismic databases*
 <!-- * [Overview](Day2/notes.md) -->
-* Lecture slides [PDF]() [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day2.pptx?d=waab4f620f10d4b76b3aaf1c9a4fb211e&csf=1&web=1&e=bU2Cwt)
+* Lecture slides [PDF](https://drive.google.com/file/d/1ZfCOgyYIchO47D_5ePJG4XpvngugHDfi/view?usp=sharing) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day2.pptx?d=waab4f620f10d4b76b3aaf1c9a4fb211e&csf=1&web=1&e=bU2Cwt)
 * In-class exercise: Ray theoretical travel times and paths
  [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day2/D2_Lab.ipynb)
 * Self-practice exercise: Triangulation of M5.2 Kon Tum 28/07/2024 earthquake [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day2/D2_Prac.ipynb)
