@@ -61,7 +61,7 @@ More up-to-date reading list can be found in this [Google Docs](https://docs.goo
 
 *Module 3: Geophysical inverse problem*
 <!-- * [Notes](Day3/notes.md) -->
-* Lecture slides [PDF](link) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day3.pptx?d=wfcc3fd576e6242cdaa4c337f1609aaee&csf=1&web=1&e=aJOsT6)
+* Lecture slides [PPTX (download to view)](https://docs.google.com/presentation/d/1aSIX8qNMxjs41evKr-xIcPzySY_q-wlB/edit?usp=drive_link&ouid=115613731196113719130&rtpof=true&sd=true)
 * In-class exercise: Linear regression [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day3/D3_Lab.ipynb)
 * Self-practice exercise: Earthquake location as an inverse problem [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day3/D3_Prac.ipynb)
 * Advanced exercise: Seismic moment tensor inversion (by Julien Thurin) [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/drive/1UJWOompBz9MlJN0B6SoVKzF8Whz_1nPp?usp=sharing#scrollTo=n8Gxw3DPkxAb)
