@@ -68,12 +68,12 @@ More up-to-date reading list can be found in this [Google Docs](https://docs.goo
 
 *Module 4: Seismic interferometry and study of the Earth’s structures*
 <!-- * [Notes](Day4/notes.md) -->
-* Lecture slides [PDF](link) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day4.pptx?d=we66cec96811349c2879f10aa3adde4ca&csf=1&web=1&e=OTkMBd)
+* Lecture slides [PPTX (download to view)](https://docs.google.com/presentation/d/1bWzEXppb5zZ2RlFcG0IK9pZA0-Gv71w2/edit?usp=drive_link&ouid=115613731196113719130&rtpof=true&sd=true)
 * In-class exercise: Teleseismic *P*-wave coda autocorrelation [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day4/D4_Lab.ipynb)
 * Self-practice exercise: Single-event global correlogram [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day4/D4_Prac.ipynb)
 
 *Module 5: Machine learning in Seismology*
 <!-- * [Notes](Day5/notes.md) -->
-* Lecture slides [PDF](link) [PPTX](https://anu365-my.sharepoint.com/:p:/r/personal/u5883665_anu_edu_au/Documents/HUS2025/Day4%20copy.pptx?d=wf037f29c5de94f27abe19302bd0c1f62&csf=1&web=1&e=QYOHfW)
+* Lecture slides [PPTX (download to view)]()
 * In-class exercise: Convolutional neural network for PKIKP onset phase picker [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day5/D5_Lab.ipynb)
 * Self-practice exercise: Introduction to [seisbench](https://seisbench.readthedocs.io/en/stable/index.html): A toolbox for machine learning in seismology [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/seisbench/seisbench/blob/main/examples/01b_model_api.ipynb)
