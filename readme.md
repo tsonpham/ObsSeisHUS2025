@@ -19,9 +19,9 @@ Time: April 21-25, 2025
 This intensive one-week workshop, Introduction to Observational Seismology, is designed to equip learners with a basic understanding of concepts in observational seismology and hands-on experience with modern research tools for seismological data processing. It serves as an engaging introduction for beginners, but provides resources and materials to facilitate advanced study. 
 
 ### Aims
-Promote observational seismology as a computational science of passive seismic data.
-Introduce basic seismological concepts and modern practices for retrieving waveforms and metadata, as well as performing research-standard analysis. 
-Hands-on experience with seismological research tools: Python, Jupyter Notebook, Google Colab, ObsPy, SeisBench. 
+- Promote observational seismology as a computational science of passive seismic data.
+- Introduce basic seismological concepts and modern practices for retrieving waveforms and metadata, as well as performing research-standard analysis. 
+- Hands-on experience with seismological research tools: Python, Jupyter Notebook, Google Colab, ObsPy, SeisBench. 
 
 ### Key contents and expected learning outcomes:
 - Introduction to geographical mapping skills + visualize scientific data, including skills to (1) draw a geophysical map for a region of interest, (2) plot scientific data on a map.
