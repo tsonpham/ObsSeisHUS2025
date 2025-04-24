@@ -2,7 +2,7 @@
 
 <!-- WARNING: This website is under active constructions. Its content might be changed without notice! -->
 
-Facilitator:
+Lecturer:
 - Dr. Phạm Thành Sơn (ANU)
 
 Organizers:
@@ -15,16 +15,20 @@ Venue: VNU Hanoi University of Science, 334 Nguyễn Trãi, Thanh Xuân, Hà N�
 
 Time: April 21-25, 2025
 
-Registration form *(deadline April 10)*: https://forms.gle/A7u4UtuP463DfQ1TA
+### Workshop Description
+This intensive one-week workshop, Introduction to Observational Seismology, is designed to equip learners with a basic understanding of concepts in observational seismology and hands-on experience with modern research tools for seismological data processing. It serves as an engaging introduction for beginners, but provides resources and materials to facilitate advanced study. 
 
-## What do we learn in this workshop
-This workshop is a quick introduction to resources and tools for Observational Seismology. The course content covers the following topics:
+### Aims
+Promote observational seismology as a computational science of passive seismic data.
+Introduce basic seismological concepts and modern practices for retrieving waveforms and metadata, as well as performing research-standard analysis. 
+Hands-on experience with seismological research tools: Python, Jupyter Notebook, Google Colab, ObsPy, SeisBench. 
 
-* Introduction to digital seismic data, including (1) principles of seismometry, (2) seismic data as digital signals, (3) global seismic databases, (4) basic data processing tools. 
-* Introduction to geographical mapping skills + visualize scientific data, including (1) Python package to draw a geophysical map of a region, (2) plotting scientific data on a map.
-* Introduction to inverse problem theory and classical inverse problems in seismology: (1) earthquake location and (2) seismic moment tensor inversion. 
-* Introduction to cross-correlation techniques (i.e., relatively modern seismology technique): theory and example of autocorrelation for shallow Earth imaging.
-* A brief introduction to machine learning in seismology: automatic earthquake detection. 
+### Key contents and expected learning outcomes:
+- Introduction to geographical mapping skills + visualize scientific data, including skills to (1) draw a geophysical map for a region of interest, (2) plot scientific data on a map.
+- Introduction to digital seismic data, including (1) principles of seismometry, (2) seismic data as digital signals, (3) global seismic databases, and (4) basic data processing tools.
+- Introduction to inverse problem theory with demonstration for (1) polynomial parameter estimation and (2) earthquake location determination.
+- Introduction to cross-correlation techniques (1) theory and example of autocorrelation for shallow Earth imaging, and (2) single-event global correlogram.
+- A brief introduction to machine learning in seismology, including (2) the PKIKP onset picker and (2) automatic earthquake detection with the Seisbench framework.
 
 ### About the faciliator
 [Dr. Phạm](https://www.tsonpham.net/) is an observational seismologist, who uses seismic waves to understand the Earth’s interior structures and seismic energy sources using mathematical tools, such as signal processing, numerical modeling, and geophysical inference. He is particularly interested in structures and processes a few kilometers beneath the surface, such as polar ice sheets, down to the Earth’s deepest shell, including its cores. To date, one of his visible contributions is to help understand better the architecture of the seismic wavefield several hours after large earthquakes and use it to decipher several long-lasting puzzles regarding the Earth’s inner core. In current and near-future research, he aims to expand my seismological toolbox to advance research on the topics, focusing on understanding the structures and dynamics of the polar ice sheets in Antarctica and Greenland in the changing climate. 
@@ -74,7 +78,7 @@ More up-to-date reading list can be found in this [Google Docs](https://docs.goo
 
 *Module 5: Machine learning in Seismology*
 <!-- * [Notes](Day5/notes.md) -->
-* Lecture slides [PPTX (download to view)]()
+* Lecture slides [PPTX (download to view)](https://docs.google.com/presentation/d/1du1_Z1jidPnA3t1n1VAMcqPfHtNOEKRf/edit?usp=sharing&ouid=115613731196113719130&rtpof=true&sd=true)
 * In-class exercise: Convolutional neural network for PKIKP onset phase picker [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day5/D5_Lab.ipynb)
 * Self-practice exercise: Introduction to [seisbench](https://seisbench.readthedocs.io/en/stable/index.html): A toolbox for machine learning in seismology [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/seisbench/seisbench/blob/main/examples/01b_model_api.ipynb)
-* Bonus project: Automatic picking of micro icequake [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day5/D5_Project.ipynb)
+* Bonus project: Automatic picking of micro icequakes [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/tsonpham/ObsSeisHUS2025/blob/master/Day5/D5_Project.ipynb)
